@@ -19,6 +19,9 @@ with the help of keras and tensorflow libraries. We will also build a model usin
 from sklearn library.
 
 ## Data Description
+
+dataset link: https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
+
 The dataset in use is the Ryerson Audio-Visual Database of Emotional Speech and Song
 (RAVDESS). It contains a total of 7356 files. Two lexically-matched statements are vocalized
 in a neutral North American accent by 24 professional actors (12 female, 12 male) in the
